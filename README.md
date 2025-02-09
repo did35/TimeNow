@@ -27,13 +27,11 @@ This SwiftUI app displays the current time and date while dynamically updating t
 
 ## 🛠 Installation & Usage
 
-- Clone this repository:
-
-git clone https://github.com/your-repo/swiftui-clock.git
+- Clone this repository: [git clone](https://github.com/did35/TimeNow.git)
 
 - Open ContentView.swift in Xcode.
 
-Run the project in the iOS Simulator or on a physical device.
+- Run the project in the iOS Simulator or on a physical device.
 
 ## 📝 Code Breakdown
 
