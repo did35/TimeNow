@@ -104,4 +104,4 @@ This project is open-source under the MIT License. Feel free to modify and use i
 
 👨‍💻 Author
 
-Developed by [Didier Delhaisse] – SwiftUI enthusiast 🚀
+Developed by [Didier Delhaisse](https://github.com/did35) – SwiftUI enthusiast 🚀
