@@ -102,6 +102,6 @@ struct ContentView: View {
 
 This project is open-source under the MIT License. Feel free to modify and use it in your projects.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by [Didier Delhaisse](https://github.com/did35) – SwiftUI enthusiast 🚀
