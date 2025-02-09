@@ -43,7 +43,7 @@ import SwiftUI
 struct ContentView: View {
     @State private var currentTime = Date()
     
-    var amPmIndicator: String {
+    private var amPmIndicator: String {
         return Calendar.current.component(.hour, from: currentTime) < 12 ? "AM" : "PM"
     }
     
